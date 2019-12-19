@@ -1,0 +1,50 @@
+{
+    "name": "DataCultr",
+    "description": "<p>DataCultr is an AI driven platform for device manufacturers to manage the lifetime of the device' by providing intuitive experiences to their users. We are built with a vision to make simple &amp; intuitive products for the next billion people' who will come on internet' allowing them to experience the power of internet &amp; connected devices in a manner that will help in increasing productivity and improving lives. The DataCultr team comprises of well-experienced members from the telecom &amp; mobile OEM space with great understanding of consumers in emerging markets and expertise in building scalable platforms.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Master_datacultr_text-copy.png",
+    "tags": [
+        "contacts",
+        "data",
+        "have api",
+        "profile"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/datacultr\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "DataCultr",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/Master_datacultr_text-copy.png",
+            "humanURL": "https:\/\/www.datacultr.com",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datacultr-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/datacultr-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Blog",
+            "url": "https:\/\/blog.datacultr.com\/"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/datacultrworld"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/www.datacultr.com"
+        }
+    ]
+}
